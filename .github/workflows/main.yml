@@ -1,5 +1,8 @@
 name: Run notebook every 30 minutes
 
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   schedule:
@@ -35,3 +38,11 @@ jobs:
       - name: Run notebook
         run: |
           papermill notebooks/twoj_notatnik.ipynb output/output.ipynb
+
+      - name: Commit updated traffic history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add traffic_history.csv
+          git diff --staged --quiet || git commit -m "Update traffic history"
+          git push
