@@ -3,7 +3,7 @@ name: Run notebook every 30 minutes
 on:
   workflow_dispatch:
   schedule:
-    - cron: "25,55 * * * *"
+    - cron: "5,35 * * * *"
       timezone: "Europe/Warsaw"
 
 permissions:
@@ -38,7 +38,7 @@ jobs:
       - name: Run notebook
         run: |
           mkdir -p output
-          papermill Mobilnosc_miejska_w_Krakowie.ipynb output/Mobilnosc_miejska_w_Krakowie_output.ipynb
+          papermill Mobilnosc_miejska_w_Krakowie_do_zebrania_danych.ipynb output/Mobilnosc_miejska_w_Krakowie_do_zebrania_danych_output.ipynb
 
       - name: Commit updated traffic history
         run: |
