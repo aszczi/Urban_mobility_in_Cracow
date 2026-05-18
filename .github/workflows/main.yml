@@ -3,7 +3,7 @@ name: Run notebook every 30 minutes
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "15,45 * * * *"
       timezone: "Europe/Warsaw"
 
 permissions:
