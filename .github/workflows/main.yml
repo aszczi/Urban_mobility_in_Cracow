@@ -33,17 +33,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests pandas matplotlib geopandas folium branca papermill ipykernel
 
       - name: Run notebook
         run: |
           mkdir -p output
           papermill Mobilnosc_miejska_w_Krakowie.ipynb output/Mobilnosc_miejska_w_Krakowie_output.ipynb
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pandas matplotlib geopandas folium branca papermill ipykernel
+
 
       - name: Commit updated traffic history
         run: |
