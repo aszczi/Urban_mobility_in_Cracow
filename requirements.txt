@@ -1,0 +1,9 @@
+requests
+pandas
+matplotlib
+geopandas
+folium
+branca
+mapclassify
+papermill
+ipykernel
