@@ -1,9 +1,25 @@
 # Urban_mobility_in_Cracow
-A data-driven analysis of urban transportation and resident mobility in Cracow. Developed as the main project for the Data Visualization in 2025/2026 academic year.
+Analiza mobilności miejskiej miasta Krakowa. Zebraliśmy i przedstawiliśmy dane dotyczące zagęszczenia poruszania się po naszym mieście.
+
+## Dane do analizy
+- Monitorowanie komunikacji miejskiej:
+ GTFS (General Transit Feed Specification) to otwarty, międzynarodowy standard zapisu danych o publicznym transporcie zbiorowym, jest on udostępniany również przez ZTP Kraków. 
+ https://gtfs.ztp.krakow.pl
+- Pomiary ruchu rowerowego:
+ ZTP prowadzi pomiary ruchu rowerowego w Krakowie w kilkunastu stałych lokalizacjach które aktualizowane są na bieżąco.
+ https://ztp.krakow.pl/rower/pomiary-ruchu-rowerowego
+
+## Dane pomocnicze
+- Siatki dróg i mapy:
+ OpenStreetMap projektu tworzącej darmową, swobodnie dostępnej i edytowalnej mapy świata.
+ https://www.openstreetmap.org
+
+
 
 ## Notatniki (Colab)
-- [![Mobilność Całkowita](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_calkowita.ipynb) - Mapa łącząca natężenie samochodów (TomTom) oraz zagęszczenie komunikacji miejskiej.
-- [![Opóźnienia KMK](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb) - Analiza odchyleń od rozkładu jazdy dla autobusów i tramwajów.
+- Podprojekt: analiza opóźnień komunikacji miejskiej.
+ [Opóźnienia_KMK](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb)
+- Projekt właściwy: analiza całkowitego ruchu miejskiego.
+ [Mobilność_całkowita](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_calkowita.ipynb)
 
-## usefull links
-- https://gtfs.ztp.krakow.pl
+
