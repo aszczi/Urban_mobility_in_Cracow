@@ -17,9 +17,9 @@ Analiza mobilności miejskiej miasta Krakowa. Zebraliśmy i przedstawiliśmy dan
 
 
 ## Notatniki (Colab)
-- Podprojekt: analiza opóźnień komunikacji miejskiej.
- [Opóźnienia_KMK](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb)
-- Projekt właściwy: analiza całkowitego ruchu miejskiego.
- [Mobilność_całkowita](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_calkowita.ipynb)
+### Podprojekt: analiza opóźnień komunikacji miejskiej.
+- [Opóźnienia_KMK](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb)
+### Projekt właściwy: analiza całkowitego ruchu miejskiego.
+- [Mobilność_całkowita](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_calkowita.ipynb)
 
 
