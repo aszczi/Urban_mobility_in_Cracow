@@ -25,10 +25,10 @@ Analiza mobilności miejskiej miasta Krakowa. Zebraliśmy i przedstawiliśmy dan
 ## Notatniki (Colab)
 ### Podprojekt: 
 **Analiza opóźnień komunikacji miejskiej.**
-- [![Open In Colab: Mobilnosc_miejska_w_Krakowie_JOIN.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb) Mobilność_miejska_w_Krakowie_JOIN
+- [Opoznienia_KMK.ipynb](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb)
 ### Projekt właściwy: 
 **Analiza całkowitego ruchu miejskiego.**
-- [![Open In Colab: Opoznienia_KMK.ipybn](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_miejska_w_Krakowie_JOIN.ipynb) 
+- [Mobilnosc_miejska_w_krakowie_JOIN.ipynb](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_miejska_w_Krakowie_JOIN.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_miejska_w_Krakowie_JOIN.ipynb) 
 
 ## Dokumentacja
 - [Opis projektu (PDF)](Opis_projektu.pdf)
