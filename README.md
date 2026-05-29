@@ -20,7 +20,7 @@
 
 ## Dane pomocnicze
 - **Siatki dróg i mapy:**  
- OpenStreetMap projektu tworzącej darmową, swobodnie dostępnej i edytowalnej mapy świata.
+ OpenStreetMap projekt darmowej, swobodnie dostępnej i edytowalnej mapy świata.
  https://www.openstreetmap.org
 
 
