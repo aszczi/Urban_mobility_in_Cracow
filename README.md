@@ -27,11 +27,12 @@
 
 ## Notatniki (Colab)
 
-### Podprojekt:  
+### Podprojekt:
 Analiza opóźnień komunikacji miejskiej  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Opoznienia_KMK.ipynb)  
-  
-### Projekt właściwy:  
+
+    
+### Projekt właściwy:
 Analiza całkowitego ruchu miejskiego  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_miejska_w_Krakowie_JOIN.ipynb)
 
