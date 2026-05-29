@@ -22,4 +22,8 @@ Analiza mobilności miejskiej miasta Krakowa. Zebraliśmy i przedstawiliśmy dan
 ### Projekt właściwy: analiza całkowitego ruchu miejskiego.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aszczi/Urban_mobility_in_Cracow/blob/main/Mobilnosc_miejska_w_Krakowie_JOIN.ipynb)
 
+## Dokumentacja
+- [Opis projektu (PDF)](Opis_projektu.pdf)
+- [Analiza projektu (PDF)](Analiza_projektu.pdf)
+
 
