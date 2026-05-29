@@ -8,6 +8,12 @@ Analiza mobilności miejskiej miasta Krakowa. Zebraliśmy i przedstawiliśmy dan
 - **Pomiary ruchu rowerowego:**
  ZTP prowadzi pomiary ruchu rowerowego w Krakowie w kilkunastu stałych lokalizacjach które aktualizowane są na bieżąco.
  https://ztp.krakow.pl/rower/pomiary-ruchu-rowerowego
+- **Monitorowanie samochodów TOMTOM**
+ TomTom to firma od lat produkująca nawigacje samochodowe. Posiadają własny system map oraz natężenia komunikacyjnego. Ich urządzenia wysyłają anonimowe informacje o położeniu - korzystając z ich API, 
+ (które jednak w wersji darmowej udostępnia jedynie cząstkowe dane) możemy oszacować natężenie ruchu ulicznego w danej lokalizacji.
+- **Punkty stałego pomiaru natężenia ruchu (GOV)**
+ Generalna Dyrekcja Dróg Krajowych i Autostrad udostępnia nam dane pomiarowe z ich punktów. Niestety jednak jest to system ogólnokrajowy mierzący natężenie głównie w łącznikach dróg ekspresowych i autostrad.
+ Na terenie samego miasta Krakowa znajduje się jedynie kilka z nich, nie uzyskaliśmy z nich znaczących danych lecz stanowią cegiełkę która dołożyła się do zsumaryzowania wszystkich danych do projektu.
 
 ## Dane pomocnicze
 - **Siatki dróg i mapy:**
